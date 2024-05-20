@@ -11,5 +11,5 @@
 <h1>About me</h1>
 <p>Like I said, I love to code.</p>
 
->> This user has been spotted writing code in:
+> This user has been spotted writing code in:
 Python, JavaScript, Java, C/C++, and PHP.
