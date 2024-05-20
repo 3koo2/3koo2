@@ -1,6 +1,7 @@
-<!DOCTYPE html>
-<html>
-    <body>
-        <h1>Can i make an html readme?</h1>
-    </body>
-</html>
+<style>
+    h1{
+        text-align:center;
+    }
+</style>
+
+<h1>3koo2</h1>
