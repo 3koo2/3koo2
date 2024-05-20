@@ -6,4 +6,10 @@
 <h1>Who is Frgo?</h1>
 <p>Frgo is a frog. He says "ribbit", and jumps very high. He is also the subject of <a href = "https://frgo.org">frgo.org,</a> a website dedicated to creating games and fun games.</p>
 
-<p>He likes <a href = "https://frgo.org/games/frgoparty/">to party!</a></p>
+<p>He likes <a href = "https://frgo.org/games/frgoparty/" target = "_blank">to party!</a></p>
+
+<h1>About me</h1>
+<p>Like I said, I love to code.</p>
+
+>> This user has been spotted writing code in:
+>> Python, JavaScript, Java, C/C++, and PHP.
