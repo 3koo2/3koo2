@@ -13,3 +13,5 @@
 
 > This user has been spotted writing code in:
 Python, JavaScript, Java, C/C++, and PHP.
+
+<p>Another thing to know about me is that I usually lose attention when doing things I don't really enjoy, such as creating readme files.</p>
