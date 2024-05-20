@@ -12,4 +12,4 @@
 <p>Like I said, I love to code.</p>
 
 >> This user has been spotted writing code in:
->> Python, JavaScript, Java, C/C++, and PHP.
+Python, JavaScript, Java, C/C++, and PHP.
