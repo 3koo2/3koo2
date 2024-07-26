@@ -1,3 +1,6 @@
-# i dont like markdown
+# i write code in:
 
-i like frogs, though
+java, python, js, php, and a little bit of C/C++,
+
+but not md
+
